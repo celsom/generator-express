@@ -14,3 +14,8 @@ body {
 .navbar-right{
 	background-color: #ffa500;
 }
+
+
+h2.h2test {
+  text-align: center;
+}
