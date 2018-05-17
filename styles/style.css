@@ -6,3 +6,11 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+.navbar{
+	background-color: #ffa500;
+}
+
+.navbar-right{
+	background-color: #ffa500;
+}
